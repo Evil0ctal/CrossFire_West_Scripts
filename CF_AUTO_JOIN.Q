@@ -23,34 +23,43 @@ SetupOCXFile=
 [Comment]
 
 [Script]
+'游戏结束点击OK按键
+MoveTo 1483, 851
+Delay 500
+LeftClick 1
+'点击确认按键或取消按键
+Delay 500
+MoveTo 956, 631
 '点击Ready或Join按键
+Delay 500
 MoveTo 1491, 714
-Delay 993
+Delay 500
 LeftClick 1
 MoveTo 1491, 714
-Delay 846
+Delay 500
 LeftClick 1
-Delay 546
+Delay 500
 LeftClick 1
-Delay 645
+Delay 500
 LeftClick 1
-Delay 630
+Delay 500
 LeftClick 1
-Delay 536
+Delay 500
 LeftClick 1
 '点击确认按键或取消按键
 MoveTo 956, 631
-Delay 2888
+Delay 500
 LeftClick 1
-Delay 536
+Delay 500
 '模拟走路
 KeyPress "W", 2
-Delay 536
+Delay 500
 KeyPress "A", 2
-Delay 536
+Delay 500
 KeyPress "S", 2
-Delay 536
+Delay 500
 KeyPress "D", 2
-Delay 536
+Delay 500
 '释放角色技能E键
 KeyPress "E", 2
+Delay 500
