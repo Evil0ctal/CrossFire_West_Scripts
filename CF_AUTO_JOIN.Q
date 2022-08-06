@@ -51,7 +51,7 @@ LeftClick 1
 Delay 500
 LeftClick 1
 '点击确认按键或取消按键
-MoveTo 956, 631
+MoveTo 946, 631
 Delay 500
 LeftClick 1
 Delay 500
