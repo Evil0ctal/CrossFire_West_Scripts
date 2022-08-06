@@ -23,6 +23,10 @@ SetupOCXFile=
 [Comment]
 
 [Script]
+'游戏结束点击确认按键（MP提示）
+MoveTo 1077, 744
+'游戏结束点击确认按键（快速加入游戏提示）
+MoveTo 958, 869
 '游戏结束点击OK按键
 MoveTo 1483, 851
 Delay 500
