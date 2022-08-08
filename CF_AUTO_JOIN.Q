@@ -10,7 +10,7 @@ RunOnce=0
 EnableWindow=
 MacroID=9e6ae201-9182-4347-a11f-27d1f90fb91e
 Description=CF_AUTO_JOIN
-Enable=1
+Enable=0
 AutoRun=0
 [Repeat]
 Type=1
@@ -84,4 +84,7 @@ KeyPress "D", 2
 Delay 500
 '释放角色技能E键
 KeyPress "E", 2
-
+Delay 500
+'自动复活H键
+KeyPress "H", 2
+Delay 500
