@@ -8,7 +8,7 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=0
 EnableWindow=
-MacroID=490375f9-2b9c-49b8-86a3-204f59351476
+MacroID=9e6ae201-9182-4347-a11f-27d1f90fb91e
 Description=CF_AUTO_JOIN
 Enable=1
 AutoRun=0
@@ -26,20 +26,32 @@ SetupOCXFile=
 '游戏结束点击确认按键（MP提示）
 MoveTo 1077, 744
 Delay 500
-LeftClick 1
+LeftClick 2
+'游戏结束点击确认按键（解锁成就提示）
+MoveTo 925, 830
+Delay 500
+LeftClick 2
+'游戏结束点击确认按键（解锁成就提示OK建）
+MoveTo 1058, 832
+Delay 500
+LeftClick 2
+'游戏结束点击确认按键（Rank Up提示）
+MoveTo 1068, 751
+Delay 500
+LeftClick 2
 '游戏结束点击确认按键（快速加入游戏提示）
 MoveTo 958, 869
 Delay 500
-LeftClick 1
+LeftClick 2
 '游戏结束点击OK按键
 MoveTo 1483, 851
 Delay 500
-LeftClick 1
+LeftClick 2
 '点击确认按键或取消按键
 Delay 500
 MoveTo 956, 631
 Delay 500
-LeftClick 1
+LeftClick 2
 '点击Ready或Join按键
 Delay 500
 MoveTo 1491, 714
@@ -57,7 +69,7 @@ LeftClick 1
 Delay 500
 LeftClick 1
 '点击确认按键或取消按键
-MoveTo 946, 631
+MoveTo 956, 631
 Delay 500
 LeftClick 1
 Delay 500
@@ -72,4 +84,4 @@ KeyPress "D", 2
 Delay 500
 '释放角色技能E键
 KeyPress "E", 2
-Delay 500
+
