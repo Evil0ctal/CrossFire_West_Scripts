@@ -1,6 +1,6 @@
 [General]
 SyntaxVersion=2
-BeginHotkey=121
+BeginHotkey=189
 BeginHotkeyMod=0
 PauseHotkey=0
 PauseHotkeyMod=0
@@ -8,9 +8,9 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=0
 EnableWindow=
-MacroID=9e6ae201-9182-4347-a11f-27d1f90fb91e
+MacroID=d9d8706f-04f4-4161-a1a4-24bd21bb9237
 Description=CF_AUTO_JOIN
-Enable=0
+Enable=1
 AutoRun=0
 [Repeat]
 Type=1
@@ -41,6 +41,10 @@ Delay 500
 LeftClick 2
 '游戏结束点击确认按键（快速加入游戏提示）
 MoveTo 958, 869
+Delay 500
+LeftClick 2
+'游戏结束点击确认按键
+MoveTo 1311, 834
 Delay 500
 LeftClick 2
 '游戏结束点击OK按键
@@ -86,5 +90,8 @@ Delay 500
 KeyPress "E", 2
 Delay 500
 '自动复活H键
-KeyPress "H", 2
+KeyPress "H", 3
+Delay 500
+'空格跳跃/选择
+KeyPress "Space", 3
 Delay 500
