@@ -3,6 +3,8 @@
 
 Anjianjinling Download：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm2014chs.exe
 
+Anjianjinling Download(Old version)：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm963chs.exe
+
 - CF_AUTO_JOIN.Q - AFK Bot
 
 - Open_ZM_Reward_Box.Q - Open Box Bot
