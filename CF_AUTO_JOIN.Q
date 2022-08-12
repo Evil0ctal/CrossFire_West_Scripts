@@ -27,6 +27,14 @@ SetupOCXFile=
 MoveTo 1077, 744
 Delay 500
 LeftClick 2
+'游戏结束点击确认按键（物品到期）
+MoveTo 1048, 828
+Delay 500
+LeftClick 2
+'游戏结束点击确认按键
+MoveTo 1135, 853
+Delay 500
+LeftClick 2
 '游戏结束点击确认按键（解锁成就提示）
 MoveTo 925, 830
 Delay 500
@@ -60,18 +68,10 @@ LeftClick 2
 Delay 500
 MoveTo 1491, 714
 Delay 500
-LeftClick 1
+LeftClick 3
 MoveTo 1491, 714
 Delay 500
-LeftClick 1
-Delay 500
-LeftClick 1
-Delay 500
-LeftClick 1
-Delay 500
-LeftClick 1
-Delay 500
-LeftClick 1
+LeftClick 3
 '点击确认按键或取消按键
 MoveTo 956, 631
 Delay 500
