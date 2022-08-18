@@ -1,6 +1,6 @@
 [General]
 SyntaxVersion=2
-BeginHotkey=121
+BeginHotkey=189
 BeginHotkeyMod=0
 PauseHotkey=0
 PauseHotkeyMod=0
@@ -27,19 +27,18 @@ SetupOCXFile=
 Box_x = 985
 Box_y = 480
 MoveTo Box_x, Box_y
-Delay 500
+Delay 50
 LeftDoubleClick 2
-Delay 500
+Delay 50
 MoveTo 1078, 484
-Delay 500
-LeftDoubleClick 3
-Delay 500
-Delay 124
+Delay 50
+LeftDoubleClick 2
+Delay 50
 MoveTo 923, 810
-Delay 500
+Delay 50
 LeftDoubleClick 2
-Delay 500
+Delay 50
 MoveTo 986, 812
-Delay 500
+Delay 50
 LeftDoubleClick 2
-Delay 500
+Delay 50
