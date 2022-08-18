@@ -5,9 +5,9 @@ Anjianjinling(按键精灵) has the same function as AutoHotKey(AKA AHK)
 
 All scripts must be change game setting to 16:9 1280x720 and windowed mode(not bordless) screen center.
 
-Anjianjinling Download：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm2014chs.exe
+Anjianjinling Download(Use this one first)：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm2014chs.exe
 
-Anjianjinling Download(Old version)：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm963chs.exe
+Anjianjinling Download(If the first one not working try this old version)：https://github.com/Evil0ctal/CrossFire_West_Scripts/raw/main/qm963chs.exe
 
 - CF_AUTO_JOIN.Q - AFK Bot
 
